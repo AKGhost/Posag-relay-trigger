@@ -7,7 +7,11 @@ this scripting was composed from many others and I thank them for sharing the pa
 
 
 Credits go to:
-https://github.com/osmocom/rtl-sdr
-https://github.com/jes1510/raspberry-gpio-email
-https://github.com/davidmckenzie/pagermon
+
+https://github.com/osmocom/rtl-sdr 
+
+https://github.com/jes1510/raspberry-gpio-email 
+
+https://github.com/davidmckenzie/pagermon 
+
 https://github.com/EliasOenal/multimon-ng
